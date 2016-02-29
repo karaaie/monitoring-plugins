@@ -3,6 +3,7 @@
 check_apache-auto.pl                  1.0
 check_bacula                          0.0.5
 check_drbd                            3e0b548f55
+check_file-count.sh                   1.0
 check_iostat                          0.0.4
 check_ipsec                           2.0
 check_linux-procstat.pl               0.4
